@@ -1,0 +1,7 @@
+{
+  "name": "TransferGo Booking Engine",
+  "description": "A complete transfer booking system with a multi-step user interface, backend management for fleet and pricing, and an iframe generator for external integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
